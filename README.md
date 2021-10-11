@@ -1,4 +1,7 @@
 <h1>Exercícios de revisão - Java</h1>
+<p>Resolva os exercícios utilizando o conhecimento de forma incremental, ou seja, não utilize os conceitos mais avançado como sobrescrita, herança ou ArrayList nos primeiros exercícios.</p>
+ <p><b>Tente realizar apenas o que é solicitado, caso o exercicío peça uma entrada do usuário, utilize a classe scanner, caso contrario, não utilize entradas ou laços de repetição</b></p>
+
 <h3>Atividades:</h3>
  
 <ul>
